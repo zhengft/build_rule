@@ -1,0 +1,10 @@
+<BUILD_RULE>
+  <TURING>
+    <buildgroup name="pdta_aaa" weight="2" producttype="phone">
+      <rule productname="pdta" added_contition="" addname="aaa" target="xxx"/>
+    </buildgroup>
+    <buildgroup name="pdta_bbb" weight="2" producttype="phone">
+      <rule productname="pdta" added_contition="" addname="bbb" target="xxx"/>
+    </buildgroup>
+  </TURING>
+</BUILD_RULE>
